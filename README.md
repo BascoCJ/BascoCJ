@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BascoCJ
-- 👀 I’m interested in Java 
-- 🌱 I’m currently learning GitHub 
+- 👀 I’m interested in Java/ c++/ c 
+- 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on other language
 - 📫 How to reach me in my email cyrusjohnbasco@gmail.com
 
